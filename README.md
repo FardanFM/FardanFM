@@ -1,6 +1,6 @@
 <!-- 
-  README.md for GitHub Profile – Fardan (FarXyz-ID)
-  Style: clean, minimal, dark-mode friendly, tech-focused
+  README.md for GitHub Profile – FardanFM
+  Style: clean, minimal, dark-mode friendly, bot & web focused
 -->
 
 <div align="center">
@@ -16,14 +16,14 @@
 
   <br>
 
-  <a href="https://github.com/FarXyz-ID">
+  <a href="https://github.com/FardanFM">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://t.me/FarXyz_ID">
     <img src="https://img.shields.io/badge/Telegram-@FarXyz__ID-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:fardan@farxyz.dev">
-    <img src="https://img.shields.io/badge/Email-fardan@farxyz.dev-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/WhiskeySockets/Baileys">
+    <img src="https://img.shields.io/badge/Baileys-WhatsApp_Bot-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Baileys">
   </a>
 
   <br><br>
@@ -63,8 +63,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FarXyz-ID&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarXyz-ID&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FardanFM&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardanFM&layout=compact&theme=dark" />
 </div>
 
 ---
@@ -74,12 +74,12 @@
 I’m open to collabs on **bot projects**, **web utilities**, or anything that involves **creative problem-solving with code**.
 
 - **Telegram**: [@FarXyz_ID](https://t.me/FarXyz_ID)  
-- **Email**: [fardan@farxyz.dev](mailto:fardan@farxyz.dev)
+- **GitHub**: [@FardanFM](https://github.com/FardanFM)
 
 > *"Kalo bisa otomatis, kenapa manual?"* — Fardan
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ and lots of <code>console.log()</code> | © 2025 Fardan (FarXyz-ID)</sub>
+  <sub>Made with ❤️ and lots of <code>console.log()</code> | © 2025 Fardan (FardanFM)</sub>
 </div>
